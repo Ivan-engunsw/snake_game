@@ -1,3 +1,7 @@
+//A simple snake game program.
+//Author: Ivan Lun Hui Chen
+//Date: 2023-09-15
+
 #include <iostream>
 #include <vector>
 #include <array>
